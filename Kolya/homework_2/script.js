@@ -15,10 +15,6 @@
 // // result = c + d;
 // // alert(result)
 
-// let str1 = "Hello";
-// let str2 = "world";
-// alert(str1 + " " + str2);
-
 // let a = 1;
 // let b = 2;
 // let c = 3;
@@ -69,21 +65,45 @@
 // let b = 3;
 // alert(a % b);
 
-alert(2 ** 10);
+// alert(2 ** 10);
+//
+// 24 zadacha - 24;
+//
+// 25 zadacha - 216;
+//
+// 26 zadacha - 48;
+//
+// 27 zadacha - 24;
+//
+// 28 zadacha - 72;
 
-24 zadacha - 24;
+// urok 4
 
-25 zadacha - 216;
+// let str = '!!!';
+// alert(str);
 
-26 zadacha - 48;
+// let str1 = 'java';
+// let str2 = 'script';
+// alert(str1 + str2);
 
-27 zadacha - 24;
+// let str1 = "Hello";
+// let str2 = "world";
+// alert(str1 + " " + str2);
 
-28 zadacha - 72;
+// let str = 'Vinel';
+// alert(str.length);
 
+// let str= `a
+// b
+// c`;
+// alert(str);
 
+// let a = 10;
+// alert(a / 0);
+//
+// let b = -10;
+// alert(b / 0);
 
-
-
-
+// const PI = 3.14;
+// alert(PI * 3 ** 2);
 
