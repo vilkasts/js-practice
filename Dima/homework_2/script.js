@@ -77,5 +77,55 @@
 
 // vivedet 72; //
 
-console.log('add 28 items');
+// console.log('add 28 items');
+
+// let str = '!!!';
+// alert(str);
+
+// let str1 = 'java';
+// let str2 = 'script';
+// alert(str1 + str2);
+
+// let str1 = 'hello';
+// let str2 = ' world';
+// alert(str1 + ' ' + str2);
+
+// let str = 'kolya levaya siska';
+// alert(str.length);
+
+// let str = `a
+// b
+// c`;
+// alert(str);
+
+// let a;
+// alert(a);
+
+// let a = null;
+// alert(a);
+
+// let a = true;
+// alert(a);
+
+// let a = false;
+// alert(a);
+
+// let str1 = 'asd';
+// let str2 = 'akb';
+// alert(str1 + str2);
+
+// alert(10 / 0);
+// alert(-10 / 0);
+
+// let a = 3;
+// console.log(a);
+// let b = 4;
+// document.write(b + ' penisa');
+// console.log(c);
+
+// const PI = 3.14;
+// let r = 10;
+// let S = PI * r ** 2;
+// console.log(S + ' площадь круга');
+
 
